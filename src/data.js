@@ -1,35 +1,35 @@
 export const projects = [
     {
-      title: "React Reserve",
-      subtitle: "MERN Stack",
+      title: "Kick the Bottle",
+      subtitle: "Javascript and Canvas",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+        "User is able to move around Canvas using arrow keys to kick bottles while avoiding other distractions within a given time.",
       image: "./project1.gif",
       link: "https://hamazumi.github.io/P1-Kick_the_bottle/",
     },
     {
-      title: "React Tracks",
-      subtitle: "React and Python",
+      title: "Watchlist",
+      subtitle: "Express JS Fullstack",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+        "App allows users save a personal watchlist of movies utilizing a search through an API.",
       image: "./project2.gif",
-      link: "https://reactbootcamp.com",
+      link: "https://my-movie-watchlists.herokuapp.com/",
     },
     {
-      title: "DevChat",
-      subtitle: "React and Firebase",
+      title: "Park Hopper",
+      subtitle: "MERN Stack",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+        "National Park search app where a user can search by state or activity they’re interested in and save it to their profile.",
       image: "./project3.gif",
-      link: "https://reactbootcamp.com",
+      link: "https://distracted-mestorf-527b99.netlify.app/",
     },
     {
-      title: "Epic Todo App",
-      subtitle: "React Hooks",
+      title: "Blog",
+      subtitle: "Flask and Jinja",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+        "Blog utilizing SQLAlchemy that allows individual users to save,edit, and delete blog entries",
       image: "./project4.gif",
-      link: "https://reactbootcamp.com",
+      link: "https://hamazumi-blog.herokuapp.com/",
     },
   ];
   
