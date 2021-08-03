@@ -4,15 +4,15 @@ export const projects = [
       subtitle: "MERN Stack",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-1.gif",
-      link: "https://reactbootcamp.com",
+      image: "./project1.gif",
+      link: "https://hamazumi.github.io/P1-Kick_the_bottle/",
     },
     {
       title: "React Tracks",
       subtitle: "React and Python",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-2.gif",
+      image: "./project2.gif",
       link: "https://reactbootcamp.com",
     },
     {
@@ -20,7 +20,7 @@ export const projects = [
       subtitle: "React and Firebase",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-3.gif",
+      image: "./project3.gif",
       link: "https://reactbootcamp.com",
     },
     {
@@ -28,34 +28,26 @@ export const projects = [
       subtitle: "React Hooks",
       description:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-4.gif",
+      image: "./project4.gif",
       link: "https://reactbootcamp.com",
-    },
-  ];
-  
-  export const testimonials = [
-    {
-      quote:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-      image: "https://randomuser.me/api/portraits/men/1.jpg",
-      name: "Jesse Hicks",
-      company: "Zoozle",
-    },
-    {
-      quote:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-      image: "https://randomuser.me/api/portraits/men/94.jpg",
-      name: "Ruben Alvarez",
-      company: "Dooble.io",
     },
   ];
   
   export const skills = [
     "JavaScript",
+    "Python",
+    "Canvas",
+    "HTML",
+    "SQLAlchemy",
+    "PostgreSQL",
+    "Mongoose",
+    "MongoDB",
+    "Sequelize",
+    "Express",
     "React",
-    "Next.js",
+    "Jinja",
     "Node",
-    "GraphQL",
-    "Material UI",
+    "Tailwind",
+    "RESTful Routing JSON",
   ];
   
