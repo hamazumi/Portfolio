@@ -11,7 +11,7 @@ export const projects = [
       title: "Watchlist",
       subtitle: "Express JS Fullstack",
       description:
-        "App allows users save a personal watchlist of movies utilizing a search through an API.",
+        "App allows users to save a personal watchlist of movies utilizing a search through an API. Each user has their own list from which they can add or delete from.",
       image: "./project2.gif",
       link: "https://my-movie-watchlists.herokuapp.com/",
     },
@@ -27,7 +27,7 @@ export const projects = [
       title: "Blog",
       subtitle: "Flask and Jinja",
       description:
-        "Blog utilizing SQLAlchemy that allows individual users to save,edit, and delete blog entries",
+        "Blog utilizing SQLAlchemy database that allows individual posts. Users can register to edit and delete personal post. ",
       image: "./project4.gif",
       link: "https://hamazumi-blog.herokuapp.com/",
     },
