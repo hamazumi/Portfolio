@@ -2,10 +2,10 @@ import { AiFillGithub, AiFillMail, AiFillLinkedin } from "react-icons/ai"
 
 function Contact() {
     return (
-      <section id="contact" className="text-gray-400 bg-green-200 body-font">
+      <section id="contact" className="text-gray-500 bg-green-200 body-font">
         <div className="container px-5 py-10 mx-auto text-center lg:px-40">
           <div className="flex flex-col w-full mb-10">
-            <h1 className="sm:text-4xl text-3xl font-semibold title-font mb-4 text-gray-400">
+            <h1 className="sm:text-4xl text-3xl font-semibold title-font mb-4 text-gray-500">
               Contact Me
             </h1>
             <p className="lg:w-2/3 mx-auto leading-relaxed mb-10 text-base">
@@ -15,13 +15,13 @@ function Contact() {
           <div>
             <div className="container mx-auto flex flex-wrap justify-between">
               <div>
-                <a href="https://www.linkedin.com/in/ken-y-hamamoto/" className="flex flex-col items-center">
+                <a href="https://www.linkedin.com/in/ken-y-hamamoto/" className="hover:text-gray-700 flex flex-col items-center hover">
                   <AiFillLinkedin style={{ height:"6vh", width:"6vh" }}/>
                   <span>Linkedin</span>
                 </a>
               </div>
               <div>
-                <a href="https://github.com/hamazumi" className="flex flex-col items-center">
+                <a href="https://github.com/hamazumi" className="hover:text-gray-700 flex flex-col items-center">
                   <AiFillGithub style={{ height:"6vh", width:"6vh" }}/>
                   <span>Github</span>
                 </a>
