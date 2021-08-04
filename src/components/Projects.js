@@ -16,6 +16,7 @@ function Projects() {
             <a
               href={project.link}
               key={project.image}
+              target="_blank"
               className="sm:w-1/2 w-100 p-4">
               <div className="flex relative transition duration-500 ease-out transform hover:scale-105">
                 <img

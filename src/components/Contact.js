@@ -15,13 +15,13 @@ function Contact() {
           <div>
             <div className="container mx-auto flex flex-wrap justify-between">
               <div>
-                <a href="https://www.linkedin.com/in/ken-y-hamamoto/" className="hover:text-gray-700 flex flex-col items-center hover">
+                <a href="https://www.linkedin.com/in/ken-y-hamamoto/" target="_blank" className="hover:text-gray-700 flex flex-col items-center hover">
                   <AiFillLinkedin style={{ height:"6vh", width:"6vh" }}/>
                   <span>Linkedin</span>
                 </a>
               </div>
               <div>
-                <a href="https://github.com/hamazumi" className="hover:text-gray-700 flex flex-col items-center">
+                <a href="https://github.com/hamazumi" target="_blank" className="hover:text-gray-700 flex flex-col items-center">
                   <AiFillGithub style={{ height:"6vh", width:"6vh" }}/>
                   <span>Github</span>
                 </a>
