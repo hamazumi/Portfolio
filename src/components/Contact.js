@@ -1,4 +1,5 @@
-import { AiFillGithub, AiFillMail, AiFillLinkedin } from "react-icons/ai"
+import { AiFillGithub, AiFillMail, AiFillLinkedin, AiFillFileText } from "react-icons/ai"
+import Pdf from "../docs/SE-RESUME.pdf"
 
 function Contact() {
     return (
@@ -24,6 +25,12 @@ function Contact() {
                 <a href="https://github.com/hamazumi" target="_blank" className="hover:text-gray-700 flex flex-col items-center">
                   <AiFillGithub style={{ height:"6vh", width:"6vh" }}/>
                   <span>Github</span>
+                </a>
+              </div>
+              <div>
+                <a href={ Pdf } target="_blank" className="hover:text-gray-700 flex flex-col items-center">
+                  <AiFillFileText style={{ height:"6vh", width:"6vh" }}/>
+                  <span>Resume</span>
                 </a>
               </div>
               <div className="flex flex-col items-center">

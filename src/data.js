@@ -4,7 +4,7 @@ export const projects = [
       subtitle: "Javascript and Canvas",
       description:
         "User is able to move around Canvas using arrow keys to kick bottles while avoiding other distractions within a given time.",
-      image: "./project1.gif",
+      image: "./project-1.gif",
       link: "https://hamazumi.github.io/P1-Kick_the_bottle/",
     },
     {
@@ -12,7 +12,7 @@ export const projects = [
       subtitle: "Express JS Fullstack",
       description:
         "App allows users to save a personal watchlist of movies utilizing a search through an API. Each user has their own list from which they can add or delete from.",
-      image: "./project2.gif",
+      image: "./project-2.gif",
       link: "https://my-movie-watchlists.herokuapp.com/",
     },
     {
@@ -20,7 +20,7 @@ export const projects = [
       subtitle: "MERN Stack",
       description:
         "National Park search app where a user can search by state or activity they’re interested in and save it to their profile.",
-      image: "./project3.gif",
+      image: "./project-3.gif",
       link: "https://distracted-mestorf-527b99.netlify.app/",
     },
     {
@@ -28,7 +28,7 @@ export const projects = [
       subtitle: "Flask and Jinja",
       description:
         "Blog utilizing SQLAlchemy database that allows individual posts. Users can register to edit and delete personal post. ",
-      image: "./project4.gif",
+      image: "./project-4.gif",
       link: "https://hamazumi-blog.herokuapp.com/",
     },
   ];
