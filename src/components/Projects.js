@@ -4,7 +4,7 @@ import { projects } from "../data"
 
 function Projects() {
   return (
-    <section id="projects" className="text-gray-500 bg-green-200 body-font">
+    <section id="projects" className="text-gray-300 bg-green-200 body-font">
       <div className="container px-5 py-10 mx-auto text-center lg:px-40">
         <div className="flex flex-col w-full mb-20">
           <h1 className="text-5xl font-bold title-font mb-4 text-gray-500">
@@ -25,7 +25,7 @@ function Projects() {
                   src={project.image}
                 />
                 <div className="px-8 py-10 relative w-full border-4 border-gray-800 bg-gray-900">
-                  <h2 className="tracking-widest text-base title-font font-medium text-green-400 mb-1">
+                  <h2 className="tracking-widest text-lg title-font font-medium text-green-400 mb-1">
                     {project.subtitle}
                   </h2>
                   <h1 className="title-font text-2xl font-medium text-white mb-3">
