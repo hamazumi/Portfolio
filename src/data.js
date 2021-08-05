@@ -11,7 +11,7 @@ export const projects = [
       title: "Watchlist",
       subtitle: "Express JS Fullstack",
       description:
-        "App allows users to save a personal watchlist of movies utilizing a search through an API. Each user has their own list from which they can add or delete from.",
+        "App allows users to save a personal watchlist of movies utilizing a search through an API. User has their own list to add or delete from.",
       image: "./project-2.gif",
       link: "https://my-movie-watchlists.herokuapp.com/",
     },
