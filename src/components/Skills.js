@@ -1,4 +1,4 @@
-import { BadgeCheckIcon, ChipIcon } from "@heroicons/react/solid"
+import { BadgeCheckIcon } from "@heroicons/react/solid"
 import { skills } from "../data"
 
 function Skills() {
