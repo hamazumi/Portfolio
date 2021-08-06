@@ -1,5 +1,6 @@
 import { Link } from "react-scroll"
 
+
 function About() {
   return (
     <section id="about">
@@ -40,7 +41,7 @@ function About() {
           <img
             className="object-cover object-center rounded shadow-lg"
             alt="hawaii"
-            src="./Kualoa.jpeg"
+            src='./kualoa.jpeg'
           />
         </div>
       </div>
