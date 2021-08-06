@@ -1,5 +1,5 @@
 import { AiFillGithub, AiFillMail, AiFillLinkedin, AiFillFileText } from "react-icons/ai"
-import Pdf from "../docs/SE-RESUME.pdf"
+import Pdf from "../docs/SE-Resume.pdf"
 
 function Contact() {
     return (
