@@ -41,7 +41,7 @@ function About() {
           <img
             className="object-cover object-center rounded shadow-lg"
             alt="hawaii"
-            src='./kualoa.jpeg'
+            src='./Kualoa.jpeg'
           />
         </div>
       </div>
