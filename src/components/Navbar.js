@@ -43,7 +43,7 @@ function Navbar() {
           offset={-70}
           duration={500}
           className="inline-flex items-center bg-gray-800 border-0 py-1 px-3 focus:outline-none hover:text-white rounded text-base mt-4 md:mt-0 cursor-pointer"
-        >Contact TEST TEST</Link>
+        >Contact</Link>
       </div>
     </header>
   )
