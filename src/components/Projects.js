@@ -16,14 +16,14 @@ function Projects() {
               href={project.link}
               key={project.image}
               target="_blank"
-              className="sm:w-1/2 w-100 p-4">
-              <div className="flex relative transition duration-500 ease-out transform hover:scale-105">
+              className="sm:w-1/2 w-100 p-4 ">
+              <div className="flex relative transition duration-500 ease-out transform hover:scale-105 shadow-2xl drop-shadow-xl">
                 <img
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center z-10 opacity-0 hover:opacity-100"
                   src={project.image}
                 />
-                <div className="px-8 py-10 relative w-full border-4 border-gray-800 bg-gray-900">
+                <div className="px-8 py-10 relative w-full border-4 border-gray-800 bg-gray-900 shadow-2xl drop-shadow-xl">
                   <h2 className="tracking-widest text-lg title-font font-medium text-green-400 mb-1">
                     {project.subtitle}
                   </h2>
