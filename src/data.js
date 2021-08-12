@@ -5,7 +5,7 @@ export const projects = [
       description:
         "User is able to move around Canvas using arrow keys to kick bottles while avoiding other distractions within a given time.",
       image: "./project-1.gif",
-      link: "https://hamazumi.github.io/P1-Kick_the_bottle/",
+      link: "https://github.com/hamazumi/P1-Kick_the_bottle",
     },
     {
       title: "Watchlist",
@@ -13,7 +13,7 @@ export const projects = [
       description:
         "App allows users to save a personal watchlist of movies utilizing a search through an API. User has their own list to add or delete from.",
       image: "./project-2.gif",
-      link: "https://my-movie-watchlists.herokuapp.com/",
+      link: "https://github.com/hamazumi/P-2_Watch_List",
     },
     {
       title: "Park Hopper",
@@ -21,7 +21,7 @@ export const projects = [
       description:
         "National Park search app where a user can search by state or activity they’re interested in and save it to their profile.",
       image: "./project-3.gif",
-      link: "https://distracted-mestorf-527b99.netlify.app/",
+      link: "https://github.com/hamazumi/mern-auth-server-503",
     },
     {
       title: "Blog",
@@ -29,7 +29,7 @@ export const projects = [
       description:
         "Blog utilizing SQLAlchemy database that allows individual posts. Users can register to edit and delete personal post. ",
       image: "./project-4.gif",
-      link: "https://hamazumi-blog.herokuapp.com/",
+      link: "https://github.com/hamazumi/Flask-Blog",
     },
   ];
   
