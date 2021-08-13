@@ -16,25 +16,25 @@ function Contact() {
           <div>
             <div className="container mx-auto flex flex-wrap justify-between">
               <div>
-                <a href="https://www.linkedin.com/in/ken-y-hamamoto/" target="_blank" className="hover:text-gray-700 flex flex-col items-center hover">
-                  <AiFillLinkedin style={{ height:"6vh", width:"6vh" }}/>
+                <a href="https://www.linkedin.com/in/ken-y-hamamoto/" target="_blank" className="text-xs md:text-base hover:text-gray-700 flex flex-col items-center hover">
+                  <AiFillLinkedin style={{ height:"5vh", width:"5vh" }}/>
                   <span>Linkedin</span>
                 </a>
               </div>
               <div>
-                <a href="https://github.com/hamazumi" target="_blank" className="hover:text-gray-700 flex flex-col items-center">
-                  <AiFillGithub style={{ height:"6vh", width:"6vh" }}/>
+                <a href="https://github.com/hamazumi" target="_blank" className="text-xs md:text-base hover:text-gray-700 flex flex-col items-center">
+                  <AiFillGithub style={{ height:"5vh", width:"5vh" }}/>
                   <span>Github</span>
                 </a>
               </div>
               <div>
-                <a href={ Pdf } target="_blank" className="hover:text-gray-700 flex flex-col items-center">
-                  <AiFillFileText style={{ height:"6vh", width:"6vh" }}/>
+                <a href={ Pdf } target="_blank" className="text-xs md:text-base hover:text-gray-700 flex flex-col items-center">
+                  <AiFillFileText style={{ height:"5vh", width:"5vh" }}/>
                   <span>Resume</span>
                 </a>
               </div>
-              <div className="flex flex-col items-center">
-                  <AiFillMail style={{ height:"6vh", width:"6vh" }}/>
+              <div className="text-xs md:text-base flex flex-col items-center">
+                  <AiFillMail style={{ height:"5vh", width:"5vh" }} />
                   <span>khamamoto12@gmail.com</span>
               </div>
             </div>

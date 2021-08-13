@@ -8,9 +8,10 @@ function About() {
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Ken Hamamoto
-            <br className="hidden lg:inline-block" />
-            Full-Stack Software Engineer
           </h1>
+          <h5 className="text-xs md:text-3xl hidden lg:inline-block text-gray-300">
+            Software Engineer
+          </h5>
           <p className="mb-8 leading-relaxed">
           I am a software engineer interested in leveraging technology to improve people’s lives. I bring a diverse background of troubleshooting experience and would like to continue building upon it with new tech languages.  
           Born and raised in Oahu, I believe in bringing a little Aloha in people’s day and would love to be able to use tech to do that. I have previously worked in industries such as marine mammal training, aeronautical mechanics, commercial real estate, and coaching high school volleyball. 
