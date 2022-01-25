@@ -36,7 +36,8 @@ export const projects = [
   export const skills = [
     "JavaScript",
     "Python",
-    "Canvas",
+    "Java",
+    "Groovy",
     "HTML",
     "SQLAlchemy",
     "PostgreSQL",
